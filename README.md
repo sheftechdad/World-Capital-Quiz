@@ -1,6 +1,7 @@
 ![Uploading image.png…]()
 
 
+
 # 🌍 World Capital Quiz
 
 A fun and interactive quiz application where users can test their knowledge of world capitals! This project is built using **Node.js**, **Express.js**, **EJS**, **HTML**, and **CSS**.
